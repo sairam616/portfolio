@@ -58,28 +58,12 @@
   font-weight: 100;
   font-size: 17px;
 }
-.projects-container .project .project-info .details-project {
-  background-color: var(--color-sec-light);
-  padding: 17px 35px;
-  font-size: 18px;
-  margin-top: 20px;
-  border-radius: 50px;
-  position: absolute;
-  transition: 0.1s ease;
-}
-.projects-container .project .project-info .details-project span {
-  text-transform: capitalize;
-}
-.projects-container .project .project-info .details-project:hover {
-  background-color: transparent;
-  border: 2px solid var(--color-sec-light);
-}
 
 .projects-container .project .project-info .link-project {
   background-color: var(--color-sec-light);
   padding: 17px 35px;
   font-size: 18px;
-  margin-top: 40px;
+  margin-top: 30px;
   border-radius: 50px;
   position: absolute;
   transition: 0.1s ease;
