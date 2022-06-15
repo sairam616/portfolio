@@ -27,13 +27,13 @@
   padding: 20px;
   border-radius: 50px;
 }
+
 .projects-container .project .project-img {
   height: 300px;
   width: 300px;
   border-radius: 40px;
-  background: rgb(5, 7, 37) url(../props/img3.jpg);
+  background: rgb(5, 7, 37) url(../props/img1.jpg);
   background-size: cover;
-  background-position: center;
   border: 2px solid var(--color-sec-light);
 }
 
@@ -44,7 +44,7 @@
 }
 
 .projects-container .project .project-info .name {
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 500;
   letter-spacing: 2px;
 }
@@ -79,10 +79,9 @@
   background-color: var(--color-sec-light);
   padding: 17px 35px;
   font-size: 18px;
-  margin-top: 20px;
+  margin-top: 40px;
   border-radius: 50px;
   position: absolute;
-  margin-left: 150px;
   transition: 0.1s ease;
 }
 .projects-container .project .project-info .link-project span {
@@ -122,7 +121,7 @@
     height: 100px;
     width: 100px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../props/img3.jpg);
+    background: rgb(5, 7, 37) url(../props/img1.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -140,21 +139,21 @@
   }
 
   .projects-container .project .project-info .name {
-    font-size: 30px;
-    font-weight: 500;
-    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 1.5px;
   }
   .projects-container .project .project-info .position {
-    font-size: 25px;
+    font-size: 13px;
     font-weight: 200;
-    letter-spacing: 2px;
+    letter-spacing: 1.5px;
   }
   .projects-container .project .project-info .about {
-    margin-top: 10px;
+    margin-top: 15px;
     font-weight: 100;
-    font-size: 28px;
+    font-size: 25px;
   }
-  .projects-container .project .project-info a.contact-project {
+  .projects-container .project .project-info a.link-project {
     background-color: var(--color-sec-light);
     padding: 15px 25px;
     font-size: 25px;
@@ -194,7 +193,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../props/img3.jpg);
+    background: rgb(5, 7, 37) url(../props/img1.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -226,9 +225,9 @@
     font-weight: 100;
     font-size: 16px;
   }
-  .projects-container .project .project-info a.contact-project {
+  .projects-container .project .project-info a.link-project {
     background-color: var(--color-sec-light);
-    padding: 15px 25px;
+    padding: 10px 20px;
     font-size: 15px;
     border-radius: 50px;
     transition: 0.1s ease;
@@ -266,7 +265,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../props/img3.jpg);
+    background: rgb(5, 7, 37) url(../props/img1.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -298,7 +297,7 @@
     font-weight: 100;
     font-size: 16px;
   }
-  .projects-container .project .project-info a.contact-project {
+  .projects-container .project .project-info a.link-project {
     background-color: var(--color-sec-light);
     padding: 15px 25px;
     font-size: 15px;
@@ -339,7 +338,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../props/img3.jpg);
+    background: rgb(5, 7, 37) url(../props/img1.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -357,7 +356,7 @@
   }
 
   .projects-container .project .project-info .name {
-    font-size: 19px;
+    font-size: 17px;
     font-weight: 500;
     letter-spacing: 2px;
   }
@@ -371,14 +370,14 @@
     font-weight: 100;
     font-size: 18px;
   }
-  .projects-container .project .project-info a.contact-project {
+  .projects-container .project .project-info a.link-project {
     background-color: var(--color-sec-light);
-    padding: 15px 25px;
+    padding: 10px 18px;
     font-size: 15px;
     border-radius: 50px;
     transition: 0.1s ease;
     position: absolute;
-    top: -55px;
+    top: -45px;
     right: 10px;
   }
 }
@@ -412,7 +411,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../props/img3.jpg);
+    background: rgb(5, 7, 37) url(../props/img1.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -430,7 +429,7 @@
   }
 
   .projects-container .project .project-info .name {
-    font-size: 19px;
+    font-size: 17px;
     font-weight: 500;
     letter-spacing: 2px;
   }
@@ -444,14 +443,14 @@
     font-weight: 100;
     font-size: 16px;
   }
-  .projects-container .project .project-info a.contact-project {
+  .projects-container .project .project-info a.link-project {
     background-color: var(--color-sec-light);
-    padding: 15px 25px;
+    padding: 10px 17px;
     font-size: 15px;
     border-radius: 50px;
     transition: 0.1s ease;
     position: absolute;
-    top: -55px;
+    top: -45px;
     right: 5px;
   }
 }
