@@ -7,11 +7,10 @@ const projects = () => {
       <div className="project project-1">
         <div className="project-img"></div>
         <div className="project-info">
-          <h1 className="name">Brampton's Main Optician-Capstone</h1>
-          <h3 className="position">Software Intern(Mongo,Express,React,Node)</h3>
+          <h1 className="name">Capstone Project</h1>
+          <h3 className="position">(Mongo,Express,React,Node)</h3>
           <h4 className="about">
-            An E-Commerce Website to shop for your favorite glasses, lenses, and sunglasses, and to track your past and present orders. One can book appointments,
-            check the location, and contact the shop owner with their queries. The website owners have special admin login to manage complete website.
+            An E-Commerce Website to shop for your favorite glasses & lenses, to track your past and present orders. The website owners have special admin login to manage complete website.
           </h4>
 
           <a href="https://github.com/sairam616/client-capstone" className="link-project">
@@ -83,10 +82,10 @@ const projects = () => {
       <div className="project project-6">
         <div className="project-img"></div>
         <div className="project-info">
-          <h1 className="name">Anime Details-IOS App</h1>
+          <h1 className="name">IOS App</h1>
           <h3 className="position">(Storyboard,CoreData,API)</h3>
           <h4 className="about">
-            The ANIME Details are retrieved from an api and displayed in a User Friendly interface. The user can add their favorite anime to their list and keep track of the live information of ranking, releases, no.of episodes and latest anime etc
+            The ANIME Details are retrieved from an api and displayed in a User Friendly interface. The user can add an anime to their favorite list and keep track of the live information of ranking, releases etc
           </h4>
 
           <a href="https://github.com/sairam616/animelistfinal" target={"_blank"} className="link-project">
@@ -99,9 +98,9 @@ const projects = () => {
         <div className="project-img"></div>
         <div className="project-info">
           <h1 className="name">TCS Interactive</h1>
-          <h3 className="position">Full-Stack Developer(Html,Css,Javascript,Sql,SqlServer)</h3>
+          <h3 className="position">Full-Stack Developer</h3>
           <h4 className="about">
-            Developed Responsive Fitness Web Application for TCS INTERACTIVE where users and trainers can contact each other for appointments. Developed dashboards for capturing Customer Information, program, and booking Information and to capture the Trainer’s Location, Accessibility, and Hours of Operation details.
+            Developed Responsive Fitness Web Application for TCS INTERACTIVE where users and trainers can contact each other for appointments. Developed dashboards for capturing Customer & trainer Information like program, booking Information, Accessibility etc.
           </h4>
 
           <a href="https://www.tcs.com/" target={"_blank"} className="link-project">
