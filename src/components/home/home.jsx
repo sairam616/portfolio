@@ -31,7 +31,7 @@ function Home() {
       <h2>
         <span>About Me</span> <br />
         <p>
-          Highly motivated and hardworking individual, Looking for an opportunity to make difference in the company’s growth using my knowledge, skills, technical and analytical expertise.
+          A software developer with 3+ years of Hands-On experience in analysis, design, coding, development, and implementation of various web, mobile, windows, and console-based applications using different technologies and programming languages. Seeking to use proven skills and looking for an opportunity to further develop my knowledge in all aspects of software programming.
         </p>
       </h2>
 
